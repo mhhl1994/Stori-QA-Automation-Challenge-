@@ -1,0 +1,9 @@
+#ignore al pngs
+*.png
+
+#ignore all .log
+*.log
+
+# ignore pytest cahe dir
+.pytest_cache
+__pycache__
